@@ -7,7 +7,7 @@ https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoCol
 
 # Memory_Craft
 
-A simple memory card game. Flip the cards and match the tiles together in pairs.
+A simple memory card game with a World of Warcraft theme. Flip the cards and match the tiles together in pairs.
 
 Try it yourself: https://memory-craft.herokuapp.com
 
