@@ -1,0 +1,15 @@
+  
+@import url('http://fonts.cdnfonts.com/css/warcraft');
+
+/* base styles */
+body {
+  font-family: 'warcraft', sans-serif;                                             
+  margin: 0;
+  font-size: 1.5em;
+  text-align: center;
+  background: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  margin-top: 40px;
+}
