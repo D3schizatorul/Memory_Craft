@@ -9,4 +9,6 @@ https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoCol
 
 A simple memory card game. Flip the cards and match the tiles together in pairs.
 
+Try it yourself: https://memory-craft.herokuapp.com
+
 ![Animation](https://user-images.githubusercontent.com/106253049/179295197-8d9b90f3-4884-4042-a9d4-7aebba742c0a.gif)
