@@ -12,3 +12,7 @@ A simple memory card game with a World of Warcraft theme. Flip the cards and mat
 Try it yourself: https://memory-craft.herokuapp.com
 
 ![Animation](https://user-images.githubusercontent.com/106253049/179295197-8d9b90f3-4884-4042-a9d4-7aebba742c0a.gif)
+
+Different CSS styles:
+
+![Animation](https://user-images.githubusercontent.com/106253049/179369096-e039f882-205a-4dcd-8e24-0fe01626ad9f.gif)
